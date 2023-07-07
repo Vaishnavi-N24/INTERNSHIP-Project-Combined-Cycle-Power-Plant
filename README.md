@@ -1,8 +1,8 @@
-# Predicting Full Load Electrical Output of a Combined Cycle Power Plant using Polynomial Linear Regression.
+AI Variant Company Project - Combined Cycle Power Plant
 
-## Objective :
+## Aim :
 
-The objective of the Project is to predict ‘Full Load Electrical Power Output’ of a Base load operated combined cycle power plant using **Polynomial Multiple Regression**. In the current project I have used **Clustering** to demonstrate a relationship between the various variables at play. Also, I have employed **Cross-Validation** to find the most efficient hyper-parameters for the model. Furthermore, I have demonstrated the use of **‘LASSO’** for dimension reduction. Finally, I have wrapped up by applying **Bootstrapping** in order to assess the accuracy of the model on the Test DataSet.
+The objective of the Project is to predict the ‘Full Load Electrical Power Output’ of a Base load operated combined cycle power plant using **Polynomial Multiple Regression**. In the current project I have used **Clustering** to demonstrate a relationship between the various variables at play. Also, I have employed **Cross-Validation** to find the most efficient hyper-parameters for the model. Furthermore, I have demonstrated the use of **‘LASSO’** for dimension reduction. Finally, I have wrapped up by applying **Bootstrapping** in order to assess the accuracy of the model on the Test DataSet.
 
 ## Motivation:
 
